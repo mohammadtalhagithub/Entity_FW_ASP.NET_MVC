@@ -1,5 +1,8 @@
-## QESPL-React JS
-This repository contains React App portfolio of Quick Engineering Solutions Pvt. Ltd.
+## Entity Framework With ASP.NET MVC
+This repository contains Entity Framework With ASP.NET MVC.
+## Code First Approach
+## Database First Approach
+## Model First Approach
 
 ## Developer : Mohammad Talha
 
